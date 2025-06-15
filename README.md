@@ -1,44 +1,39 @@
-# Day-42-Amazing-Food-Ordering-Website
+# 🍽️ Amazing Food Ordering Website
 
-Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
+A dynamic and user-friendly online food ordering platform that enables users to explore restaurant menus and place orders, while providing admin features for efficient menu and order management.
 
-Live Demo - https://quantumcoding123.github.io/Day-42-Amazing-Food-Ordering-Website/
+---
 
-# Join Us
+## 📝 About the Project
 
-Instagram - https://www.instagram.com/quantumcoding123
+The **Amazing Food Ordering Website** simulates a real-world restaurant ordering system. It allows users to browse dishes, add items to their cart, and place orders, while administrators can manage food items, view orders, and oversee operations from a dashboard.
 
-Telegram - https://t.me/QuantumCoding123
+This project serves both educational and practical purposes, ideal for learning full-stack web development using PHP and MySQL.
 
-Whatsapp- https://whatsapp.com/channel/0029VaVInCA2ZjCjXEf2IC2I
+---
 
-GitHub-https://github.com/QuantumCoding123
+## 🚀 Tech Stack
 
-YouTube-https://www.youtube.com/channel/UC3Dz2Yaz2uWAczNU4GEDg5Q
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Tools Used:** XAMPP (Apache + MySQL), phpMyAdmin, VS Code
 
-With a plethora of free resources available online, including tutorials, code snippets, and open-source projects, you'll have everything you need to bring your ideas to life. Whether you're building a personal blog, an e-commerce site, a portfolio showcase, or an interactive web application, the possibilities are endless.
+---
 
-Join the "100 Days, 100 Websites" challenge today and witness your proficiency in web development soar to new heights. With dedication, perseverance, and a dash of creativity, you'll emerge from this journey as a proficient web developer ready to tackle any project that comes your way.
+## 📌 Key Features
 
-# Output - 1
+### ✅ User Side
+- Browse food menu categorized by type
+- View detailed dish info with price and image
+- Add items to cart and place orders
+- User login and registration
+- Order confirmation system
 
-![Screenshot (36)](https://github.com/QuantumCoding123/Day-42-Amazing-Food-Ordering-Website/assets/166281221/1332b8a6-0fc9-430e-82bd-6d907e7e35fd)
+### ✅ Admin Side
+- Secure admin login
+- Add, update, and delete menu items
+- View all user orders and manage them
+- Dashboard to manage all operations
 
- 
-# Output - 2
-
-![Screenshot (38)](https://github.com/QuantumCoding123/Day-42-Amazing-Food-Ordering-Website/assets/166281221/c6629517-8519-48e5-aecc-638e2e37d42d)
-
-
-# Output - 3
-
-![Screenshot (37)](https://github.com/QuantumCoding123/Day-42-Amazing-Food-Ordering-Website/assets/166281221/4ed7c3c4-f4d6-4956-a77f-bd4b04ada856)
-
-
-# Output - 3
-
-![Screenshot (39)](https://github.com/QuantumCoding123/Day-42-Amazing-Food-Ordering-Website/assets/166281221/f268ac02-5dca-4483-af85-e83e11130fb8)
-
-
-
-
+---
